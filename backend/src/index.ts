@@ -1,7 +1,7 @@
 import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
-import { productsRouter } from "./routes/products.js";
+import { productsRouter } from "./routes/products";
 
 dotenv.config({ path: ".env.local" });
 
