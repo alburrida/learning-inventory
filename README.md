@@ -229,3 +229,11 @@ El entregable final incluye:
 - Código del frontend.
 - Carpeta `sql/` con scripts de esquema y semilla.
 - Carpeta `docs/` con la documentación técnica requerida.
+
+## URLs de despliegue
+
+Frontend desplegado: https://learning-inventory-iwjm.vercel.app
+
+Backend desplegado: https://learning-inventory-tau.vercel.app
+
+Endpoint de productos: https://learning-inventory-tau.vercel.app/api/products
